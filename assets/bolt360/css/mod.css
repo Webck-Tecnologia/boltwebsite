@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@800&display=swap');
 .text-1{
     font-size: 80px;
 }
@@ -21,4 +22,13 @@
 
 .gray-70-hover:hover{
     background: #07beb880;
+}
+
+.blogtext{
+    font-size: 50px;
+    margin-left: 48%;
+}
+
+.navedit{
+    font-family: 'Gothic A1', sans-serif;
 }
