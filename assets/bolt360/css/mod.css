@@ -36,3 +36,30 @@
 .imagembanner{
     max-width: 200px;
 }
+
+@media (max-width: 1200px) {	
+	.imagembanner{
+        max-width: 120px;
+    }
+}
+
+@media (max-width: 770px) {	
+	.imagembanner{
+        max-width: 500px;
+    }
+}
+
+@media (max-width:600px) {	
+	.textsize{
+        font-size: 50px !important;
+    }
+    .textsize2{
+        font-size: 40px !important;
+    }
+}
+
+@media (max-width: 550px) {	
+	.imagembanner{
+        max-width: 200px;
+    }
+}
