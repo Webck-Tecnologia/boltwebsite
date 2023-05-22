@@ -68,4 +68,8 @@
 	.textsize{
         display: none !important;
     }
+    .textsize2{
+        text-align: center !important;
+        margin-top: 40px !important;
+    }
 }
