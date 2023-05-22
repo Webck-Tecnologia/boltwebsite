@@ -63,3 +63,9 @@
         max-width: 200px;
     }
 }
+
+@media (max-height: 800px) {	
+	.textsize{
+        display: none !important;
+    }
+}
